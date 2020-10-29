@@ -1,0 +1,49 @@
+.header-container-padre {
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size:20px;
+    font-family: sans-serif;
+  }
+  
+  li{
+      display: inline-block;
+      margin-left:80px;
+  }
+
+.navbar {
+    width: 70%;
+    padding-right: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: #025157;
+}
+.dis-flex{
+    display: flex !important;
+}
+
+.botlog {
+    padding-top: 39px;
+    width: 15%;
+    font-size: 14px;
+  }
+
+  .botlog > * {
+    margin-left: 10px;
+  }
+
+  .botlog a{
+    color: #67b54b;
+  }
+
+  .botlog button{
+    color: white;
+    background-color: #67b54b;
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border: 0;
+    border-radius: 5px;
+  }
